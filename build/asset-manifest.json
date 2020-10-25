@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarazin/google/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/tarazin/google/static/js/main.5fba54bf.chunk.js",
+    "main.js.map": "/tarazin/google/static/js/main.5fba54bf.chunk.js.map",
+    "runtime-main.js": "/tarazin/google/static/js/runtime-main.d555c287.js",
+    "runtime-main.js.map": "/tarazin/google/static/js/runtime-main.d555c287.js.map",
+    "static/js/2.0d73da10.chunk.js": "/tarazin/google/static/js/2.0d73da10.chunk.js",
+    "static/js/2.0d73da10.chunk.js.map": "/tarazin/google/static/js/2.0d73da10.chunk.js.map",
+    "static/js/3.a2c492ff.chunk.js": "/tarazin/google/static/js/3.a2c492ff.chunk.js",
+    "static/js/3.a2c492ff.chunk.js.map": "/tarazin/google/static/js/3.a2c492ff.chunk.js.map",
+    "index.html": "/tarazin/google/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/tarazin/google/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0d73da10.chunk.js.LICENSE.txt": "/tarazin/google/static/js/2.0d73da10.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/tarazin/google/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d555c287.js",
+    "static/js/2.0d73da10.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.5fba54bf.chunk.js"
+  ]
+}
