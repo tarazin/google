@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Google-Books-React/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Google-Books-React/static/js/main.5fba54bf.chunk.js",
+    "main.js.map": "/Google-Books-React/static/js/main.5fba54bf.chunk.js.map",
+    "runtime-main.js": "/Google-Books-React/static/js/runtime-main.055ae027.js",
+    "runtime-main.js.map": "/Google-Books-React/static/js/runtime-main.055ae027.js.map",
+    "static/js/2.0d73da10.chunk.js": "/Google-Books-React/static/js/2.0d73da10.chunk.js",
+    "static/js/2.0d73da10.chunk.js.map": "/Google-Books-React/static/js/2.0d73da10.chunk.js.map",
+    "static/js/3.a2c492ff.chunk.js": "/Google-Books-React/static/js/3.a2c492ff.chunk.js",
+    "static/js/3.a2c492ff.chunk.js.map": "/Google-Books-React/static/js/3.a2c492ff.chunk.js.map",
+    "index.html": "/Google-Books-React/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Google-Books-React/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0d73da10.chunk.js.LICENSE.txt": "/Google-Books-React/static/js/2.0d73da10.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Google-Books-React/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.055ae027.js",
+    "static/js/2.0d73da10.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.5fba54bf.chunk.js"
+  ]
+}
