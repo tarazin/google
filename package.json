@@ -2,7 +2,7 @@
   "name": "google-book",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tarazin.github.io/Google-Books-React",
+  "homepage": "https://github.com/tarazin/google",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
