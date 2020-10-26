@@ -7,7 +7,7 @@ Using this super fun app you can search books and save them! :)
 ![Capture](https://github.com/tarazin/google/blob/master/Capture.PNG)
 
 ## Description
-         This app uses React! Yes, this is the future.
+         Google helps you find your favorite books and save them! 
 
 ## Installation
 
